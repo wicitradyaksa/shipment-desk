@@ -5,3 +5,7 @@ __pycache__/
 backups/
 *.pem
 output/
+
+.env
+.env.*
+!.env.example
